@@ -11,7 +11,7 @@ Read about Freddie's Story here:
 
 https://www.policechiefmagazine.org/from-crisis-to-community-policing/    
 https://www.bbc.com/news/world-us-canada-32400497    
-https://en.wikipedia.org/wiki/Death_of_Freddie_Gray#:~:text=Baltimore%2C%20Maryland%2C%20U.S.&text=On%20April%2012%2C%202015%2C%20Freddie,charged%20with%20possessing%20a%20knife.&text=Gray%20died%20on%20April%2019,injuries%20to%20his%20spinal%20cord
+https://en.wikipedia.org/wiki/Death_of_Freddie_Gray   
 
 The data report is contained in EDA - Task18(Steven OEhley)   
 The data is contained in the four excel files   
