@@ -14,6 +14,6 @@ https://www.bbc.com/news/world-us-canada-32400497
 https://en.wikipedia.org/wiki/Death_of_Freddie_Gray   
 
 The data report is contained in EDA - Task18(Steven OEhley)   
-The data is contained in the four excel files   
+The data files are too large to upload, however they can be found at https://data.baltimorecity.gov/      
 The code and visualtions are contained in task_18_EDA.ipynb
 
